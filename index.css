@@ -1,0 +1,10 @@
+.zappy{ background-color: blue}
+table, th, td { border: 1px solid red;
+                border-collapse: collapse;}
+th, td        {padding: 15px;}
+
+div.cities{ background-color: black;
+            color:white;
+            margin: 20px 0 20px 0;
+            padding: 20px;
+            }
